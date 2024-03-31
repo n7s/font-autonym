@@ -1,0 +1,29 @@
+@font-face {
+  font-family: Qishtavah;
+  src: url(../results/Qishtavah-Regular.woff2) format('woff2');
+  src: url(../Qishtavah-Regular.woff2) format('woff2');
+  src: url(../results/Qishtavah-Regular.woff) format('woff');
+  src: url(../Qishtavah-Regular.woff) format('woff');
+  src: url(../results/Qishtavah-Regular.ttf) format('truetype');
+  src: url(../Qishtavah-Regular.ttf) format('truetype');
+}
+
+body {
+  font-family: Qishtavah;
+  font-size: 12px;
+}
+
+h1 {
+  font-family: Qishtavah;
+  font-size: 35px;
+}
+
+h2 {
+  font-family: Qishtavah;
+  font-size: 25px;
+}
+
+h3 {
+  font-family: Qishtavah;
+  font-size: 10px;
+}
