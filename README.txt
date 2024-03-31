@@ -12,12 +12,12 @@ An important use case is a inclusive and bandwith-friendly language selector on 
 
 This font is derived from the Noto Sans open font released under the SIL Open Font License.
 
-Proof are provided along with a demo webpage making use of the font. 
+Proofs are provided along with a demo webpage making use of the font. 
 
 Build steps 
 ============
 
-We are using the smith font development toolchain (https://silnrsi.github.io/silfontdev/).
+We are using the smith open font development toolchain (https://silnrsi.github.io/silfontdev/).
 
 smith distclean
 smith configure
