@@ -2,7 +2,7 @@ Qishtavah font
 ================
 
 A font that should render all language autonyms.
-Qishtavah means 'In its own script' in Hebrew"
+Qishtavah means 'In its own script' in Hebrew.
 
 An autonym refers to the way a language is called as well as written in its own script by the actual speakers themselves. 
 
