@@ -22,9 +22,19 @@ We are using the smith open font development toolchain (https://silnrsi.github.i
 smith distclean
 smith configure
 smith build
+smith sile
+smith zip tarball
 smith release
 
 It downloads both the upstream Noto Sans Living Regular font file and langtags.json, extracts the autonyms into a text file then subsets the fonts with that information using fonttools. 
 
 Enjoy!
+
+
+Known issues
+=============
+
+I need to put the build steps in cmd()s inside of process() rather than build(), which somehow calls the steps in every target...
+
+
 
