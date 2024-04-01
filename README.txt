@@ -8,7 +8,7 @@ An autonym refers to the way a language is called as well as written in its own 
 
 SIL values and helps every language community. A ethos of service to all means no language ignored or left behind. 
 
-An important use case is a inclusive and bandwith-friendly language selector on a website, web app or desktop/mobile app. 
+An important use case is an inclusive and bandwith-friendly language selector on a website, web app or desktop/mobile app. 
 
 This font is derived from the Noto Sans open font released under the SIL Open Font License.
 
@@ -34,7 +34,7 @@ Enjoy!
 Known issues
 =============
 
-I need to put the build steps in cmd()s inside of process() rather than build(), which somehow calls the steps in every target...
+Better filtering of duplicates from the langtags.json
 
-
+Building steps in cmd()s inside of process() rather than build(), which somehow calls the steps in every target...
 
