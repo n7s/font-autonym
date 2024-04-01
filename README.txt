@@ -38,3 +38,5 @@ Better filtering of duplicates from the langtags.json
 
 Building steps in cmd()s inside of process() rather than build(), which somehow calls the steps in every target...
 
+Currently the subsetting unfortunately looses some important name table metadata, this needs to be fixed. 
+
