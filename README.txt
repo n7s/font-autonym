@@ -34,6 +34,8 @@ Enjoy!
 Known issues
 =============
 
+in this PoC there are obviously still gaps, check out the fret coverage charts generated at build time
+
 Better filtering of duplicates from the langtags.json
 
 Building steps in cmd()s inside of process() rather than build(), which somehow calls the steps in every target...
